@@ -1,0 +1,13 @@
+body{
+  background-color: #fa8072;
+  font-family: "Oxygen", sans-serif;
+}
+#header-nav{
+  border-radius: 0;
+}
+#nav-list a{
+  border: 1px solid #0000000;
+}
+.section{
+  background-color:#808080;
+}
